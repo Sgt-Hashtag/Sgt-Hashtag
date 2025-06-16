@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sgt-Hashtag
+- 👋 Hi, I’m Sgt-Hashtag
 - 👀 I’m interested in Robotics IOT,AI, ML
 - 🌱 I’m currently learning ML, NN and AI
 - 💞️ I’m looking to collaborate on Robotics
